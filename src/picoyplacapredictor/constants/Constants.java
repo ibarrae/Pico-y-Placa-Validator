@@ -35,16 +35,16 @@ public class Constants {
     public static final String CHARACTER_PATTERN = "[aA-zZ]";
 
     /**
-     * Application's logic
+     * Test data
      */
     public static final String MORNING_INITIAL_TIME = "07:00";
     public static final String MORNING_ENDING_TIME = "09:30";
     public static final String EVENING_INITIAL_TIME = "16:00";
     public static final String EVENING_ENDING_TIME = "19:30";
-    public static final Integer[] MONDAY_DIGITS = new Integer[]{0, 1};
-    public static final Integer[] TUESDAY_DIGITS = new Integer[]{2, 3};
-    public static final Integer[] WEDNESDAY_DIGITS = new Integer[]{4, 5};
-    public static final Integer[] THURSDAY_DIGITS = new Integer[]{6, 7};
-    public static final Integer[] FRIDAY_DIGITS = new Integer[]{8, 9};
+    public static final Integer[] MONDAY_DIGITS = new Integer[]{1, 2};
+    public static final Integer[] TUESDAY_DIGITS = new Integer[]{3, 4};
+    public static final Integer[] WEDNESDAY_DIGITS = new Integer[]{5, 6};
+    public static final Integer[] THURSDAY_DIGITS = new Integer[]{7, 8};
+    public static final Integer[] FRIDAY_DIGITS = new Integer[]{9, 0};
 
 }
